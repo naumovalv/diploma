@@ -1,8 +1,21 @@
 body {
 	margin: 0;
+	font-family: 'Open Sans', sans-serif;
 }
 
 html {
 	font-size: 62.5%;
 	height: 100%;
+}
+
+h1 {
+	font-size: 9rem;
+	font-weight: 700;
+	line-height: 3.132rem;
+	color: #ffffff;
+}
+
+.header {
+	background: url("images/header-bg.jpg") no-repeat 50% 50% #0a0e34;
+    background-size: contain;
 }
