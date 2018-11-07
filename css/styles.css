@@ -16,6 +16,6 @@ h1 {
 }
 
 .header {
-	background: url("images/header-bg.jpg") no-repeat 50% 50% #0a0e34;
+	background: url("/images/header-bg.jpg") no-repeat 50% 50% #0a0e34;
     background-size: contain;
 }
